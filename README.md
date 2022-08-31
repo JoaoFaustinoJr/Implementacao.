@@ -17,7 +17,7 @@
           <p style="font-size:30px"> Direcionada a turma de pensamento computacional, 1 ano "B", do Colegio Estadual EM Fundamental e profissionalizante Julia Wanderley.</p>
 
    <strong>Relato</strong>
-   <p>  Foram utilizados como recursos pedagogicos o aparelho<em><strong style="font-size:25px"> educatron, quadro negro, notebooks individuais, rede de internet  aoe editor de texto online code pen.
+   <p>  Foram utilizados como recursos pedagogicos o aparelho<em><strong style="font-size:25px"> educatron, quadro negro, notebooks individuais, rede de internet  e editor de texto online code pen
    </strong></em></p> 
    
    
