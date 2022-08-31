@@ -14,11 +14,12 @@
 
           <h2>Implementacao pratica de ferramentas de edicao de texto em Html e Css.</h2>
 
-          <p style=""> Direcionada a turma de pensamento computacional, 1 ano "B", do Colegio Estadual EM Fundamental e profissionalizante Julia Wanderley.</p>
+          <p style="font-size:30px"> Direcionada a turma de pensamento computacional, 1 ano "B", do Colegio Estadual EM Fundamental e profissionalizante Julia Wanderley.</p>
 
    <strong>Relato</strong>
    <p>  Foram utilizados como recursos pedagogicos o aparelho<em><strong style="font-size:25px"> educatron, quadro negro, notebooks individuais, rede de internet  aoe editor de texto online code pen.
    </strong></em></p> 
+   
    
         <p> No decorrer da aula os estudantes editaram um texto no editor seguindo passo a passo o exemplo do professor editado utilizando o educatron de modo visivel a todos.
 Foi necessario atender individulamente os  alunos em suas respectivas edicoes.</p>
