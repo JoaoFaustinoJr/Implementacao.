@@ -1,6 +1,7 @@
-<!DOCTYPE html>
+  <head>
+  <!DOCTYPE html>
 <html lang="PT-br">
-    <head>
+    
     <meta charset="UTf-8">
     <title>Implementacao</title>
     </head>
