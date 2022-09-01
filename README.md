@@ -20,7 +20,7 @@
    <strong>Relato</strong>
    <p>  Foram utilizados como recursos pedagogicos o aparelho<em><strong style="font-size:25px"> educatron, quadro negro, notebooks individuais, rede de internet  e editor de texto online code pen
    </strong></em></p> 
-   
+   <imag src:"codepen.jpeg">
    
         <p> No decorrer da aula os estudantes editaram um texto no editor seguindo passo a passo o exemplo do professor editado utilizando o educatron de modo visivel a todos.
 Foi necessario atender individulamente os  alunos em suas respectivas edicoes.</p>
